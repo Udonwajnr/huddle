@@ -189,6 +189,9 @@ font-weight: 700;
     padding:0rem 10rem;
 }
 
+.your-users-info img{
+    max-width: 700px !important;
+}
 .connection-flex .flowing-conversation-info{
     padding:0rem 10rem;
 }
